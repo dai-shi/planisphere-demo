@@ -37,7 +37,7 @@ check@1.1.0
 coffeescript@1.0.11
 cosmos:browserify@0.9.3
 daishi:planisphere-core@0.1.0
-daishi:planisphere-plugin-login-page@0.0.1
+daishi:planisphere-plugin-login-page@0.0.2
 daishi:planisphere-plugin-main-layout@0.0.1
 daishi:planisphere-plugin-submit-page@0.0.1
 daishi:planisphere-plugin-tabular-page@0.0.1
