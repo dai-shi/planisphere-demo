@@ -16,8 +16,8 @@ WelcomePage.config.data =
       "paragraphs": [
         {
           "title": "About",
-          "content": "To be written",
-          "rawHtml": false
+          "content": "Please visit <a href=\"https://github.com/dai-shi/planisphere-core\">the project site</a> for more information.",
+          "rawHtml": true
         }
       ]
     }
